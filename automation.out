@@ -1,0 +1,42 @@
+2017-05-04 20:56:54 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-04 20:56:55 INFO  HomePage:38 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (58403bf81a17d26d69d6b49866a8b635)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 20:56:55 INFO  HomePage:41 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (58403bf81a17d26d69d6b49866a8b635)] -> xpath: .//*[@id='email']]
+2017-05-04 20:56:55 INFO  HomePage:44 - Entered password and the object is:[[ChromeDriver: chrome on MAC (58403bf81a17d26d69d6b49866a8b635)] -> xpath: .//*[@id='passwd']]
+2017-05-04 20:56:56 INFO  HomePage:47 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (58403bf81a17d26d69d6b49866a8b635)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-04 20:56:56 INFO  HomePage:52 - Error Message  is:Authentication failed.
+2017-05-04 20:56:56 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
+2017-05-04 21:04:18 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-04 21:04:20 INFO  HomePage:38 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (9ce6c2e2536d856f8bf967a0e246dadb)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 21:04:21 INFO  HomePage:41 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (9ce6c2e2536d856f8bf967a0e246dadb)] -> xpath: .//*[@id='email']]
+2017-05-04 21:04:21 INFO  HomePage:44 - Entered password and the object is:[[ChromeDriver: chrome on MAC (9ce6c2e2536d856f8bf967a0e246dadb)] -> xpath: .//*[@id='passwd']]
+2017-05-04 21:04:22 INFO  HomePage:47 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (9ce6c2e2536d856f8bf967a0e246dadb)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-04 21:04:22 INFO  HomePage:52 - Error Message  is:Authentication failed.
+2017-05-04 21:04:22 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
+2017-05-04 23:56:24 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-04 23:58:33 INFO  HomePage:38 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (db54248f3123a1949a6804aaf399e07b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:58:34 INFO  HomePage:41 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (db54248f3123a1949a6804aaf399e07b)] -> xpath: .//*[@id='email']]
+2017-05-04 23:58:34 INFO  HomePage:44 - Entered password and the object is:[[ChromeDriver: chrome on MAC (db54248f3123a1949a6804aaf399e07b)] -> xpath: .//*[@id='passwd']]
+2017-05-04 23:58:35 INFO  HomePage:47 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (db54248f3123a1949a6804aaf399e07b)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-04 23:58:41 INFO  HomePage:52 - Error Message  is:Authentication failed.
+2017-05-04 23:58:49 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
+2017-05-05 00:04:46 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-05 00:05:23 INFO  HomePage:38 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (767768ceda78c09969a434e44ffb6cd3)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 00:05:23 INFO  HomePage:41 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (767768ceda78c09969a434e44ffb6cd3)] -> xpath: .//*[@id='email']]
+2017-05-05 00:05:23 INFO  HomePage:44 - Entered password and the object is:[[ChromeDriver: chrome on MAC (767768ceda78c09969a434e44ffb6cd3)] -> xpath: .//*[@id='passwd']]
+2017-05-05 00:05:24 INFO  HomePage:47 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (767768ceda78c09969a434e44ffb6cd3)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-05 00:05:24 INFO  HomePage:52 - Error Message  is:Authentication failed.
+2017-05-05 00:05:24 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
+2017-05-05 00:10:28 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-05 00:11:45 INFO  HomePage:38 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (c09dfa6ca75e836451b76f9b93572f50)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 00:11:45 INFO  HomePage:41 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (c09dfa6ca75e836451b76f9b93572f50)] -> xpath: .//*[@id='email']]
+2017-05-05 00:11:45 INFO  HomePage:44 - Entered password and the object is:[[ChromeDriver: chrome on MAC (c09dfa6ca75e836451b76f9b93572f50)] -> xpath: .//*[@id='passwd']]
+2017-05-05 00:11:46 INFO  HomePage:47 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (c09dfa6ca75e836451b76f9b93572f50)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-05 00:11:46 INFO  HomePage:52 - Error Message  is:Authentication failed.
+2017-05-05 00:11:46 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
+2017-05-05 12:15:24 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ==================Starting verfying with invalid credentials====================
+2017-05-05 12:15:26 INFO  HomePage:39 - Clicked on signin Button and the object is:[[ChromeDriver: chrome on MAC (55fc28af363c36585b9975b267654960)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 12:15:26 INFO  HomePage:42 - Entered email address and the object is:[[ChromeDriver: chrome on MAC (55fc28af363c36585b9975b267654960)] -> xpath: .//*[@id='email']]
+2017-05-05 12:15:26 INFO  HomePage:45 - Entered password and the object is:[[ChromeDriver: chrome on MAC (55fc28af363c36585b9975b267654960)] -> xpath: .//*[@id='passwd']]
+2017-05-05 12:15:27 INFO  HomePage:48 - Clicked on Submit Button and the object is:[[ChromeDriver: chrome on MAC (55fc28af363c36585b9975b267654960)] -> xpath: .//*[@id='SubmitLogin']]
+2017-05-05 12:15:27 INFO  HomePage:53 - Error Message  is:Authentication failed.
+2017-05-05 12:15:27 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ==================Finished verfying with invalid credentials====================
